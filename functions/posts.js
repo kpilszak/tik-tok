@@ -1,6 +1,6 @@
 const { createClient } = require("@astrajs/rest")
 
-const collection = 'posts'
+const collection = 'tktkposts'
 
 exports.handler = async function (event, context, callback) {
 
