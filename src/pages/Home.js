@@ -5,7 +5,7 @@ const Home = () => {
     <div className="container">
       <FollowersColumn />
       <div className="feed">
-        <h1>Homie</h1>
+        <h1>Home</h1>
       </div>
       <div className="suggested-box"></div>
     </div>
